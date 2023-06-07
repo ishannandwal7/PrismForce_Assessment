@@ -1,0 +1,16 @@
+{
+  "balance": [
+    {
+      "startDate": "2021-01",
+      "amount": 50
+    },
+    {
+      "startDate": "2021-02",
+      "amount": 20
+    },
+    {
+      "startDate": "2021-03",
+      "amount": 30
+    }
+  ]
+}
